@@ -1,0 +1,70 @@
+[1015/165238.630:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/165238.630:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/170158.563:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/170158.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/170905.849:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/170905.849:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171158.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171158.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171158.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171158.565:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171658.565:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/171658.565:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173158.576:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/173158.576:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174033.281:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.283:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174033.283:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.283:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174033.283:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.284:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174033.284:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.284:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174033.284:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.285:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174033.285:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.285:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174033.826:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.826:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174033.826:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.827:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174033.827:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.827:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174033.930:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.931:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174033.931:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.931:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174033.931:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.932:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174033.932:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.932:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174033.932:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.933:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174033.933:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174033.933:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174034.029:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.029:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174034.029:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.030:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174034.030:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.030:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174034.032:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2c20000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.032:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[1015/174034.032:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec2770000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.032:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[1015/174034.032:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffec08b0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[1015/174034.033:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[1015/174034.151:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.151:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.153:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.153:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.154:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.155:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.156:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/174034.156:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/175534.156:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/175534.156:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/181034.158:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/181034.158:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/182534.159:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1015/182534.159:ERROR:crash_report_database_win.cc(469)] failed to stat report

@@ -1,9 +1,97 @@
-/*паллитра цветов*/
+/* Color palette */
 @import '_palette.css';
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap&subset=cyrillic');
+/* Fonts import */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Source+Sans+Pro&display=swap&subset=cyrillic');
 
-body
-{
-  padding: 0;
-  margin: 0;
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+  height: 300px;
+  width: 550px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 20px;
+  box-shadow: 5px 5px 11px 0px rgba(0,0,0,0.35);
+  background-image: url(https://images.unsplash.com/photo-1569153290715-aa8913c6dbae?ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80);
+  background-size: cover;
+  filter: brightness(0.5);
+}
+
+.card > div {
+  margin: 20px 20px 0px 20px
+  width: calc(100%-40px);
+}
+
+.card-tags{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card-tag{
+  margin-right: 20px;
+  text-transform: uppercase;
+  color: #fffefe
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.card-title{
+  height: calc(350px- 200px);
+font-size: 36px;
+font-family: 'Montserrat Alternate',sans-serif;
+width: 250px; !important;
+color: #111111;
+
+}
+
+.card-actions {
+  height: px ;
+  display: flex;
+  flex-direction: row;
+  justify-content: row;
+  
+}
+
+.card-buttom{
+   height: 40px ;
+   width:   150px  ;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+    color: #ffffff;
+    border: none;
+    background: none;
+    border-radius: 5px;
+    transition: all ease-in-out 0.2s;
+  
+}
+
+.card-buttom:hover{
+  cursor: pointer;
+  color: var(--primary-color-dark);
+}
+
+.title{
+color: #111111;
+font-size: 36px;
+font-family: 'Source Sans Pro', sans-serif;
+text-transform: capitalize;
+font-weight: bold;
+}
+
+.content {
+  margin: 60px;
+}
+
+.card-buttom:focus{
+    outline: none;
+ 
 }
